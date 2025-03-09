@@ -1,2 +1,2 @@
-# -bung
+# Übung
 Komposition für die Übung
